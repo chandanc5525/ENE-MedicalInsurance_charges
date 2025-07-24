@@ -11,6 +11,7 @@ Requires-Dist: joblib
 Requires-Dist: mlflow
 Requires-Dist: matplotlib
 Requires-Dist: seaborn
+Requires-Dist: loguru
 Dynamic: author
 Dynamic: author-email
 Dynamic: requires-dist

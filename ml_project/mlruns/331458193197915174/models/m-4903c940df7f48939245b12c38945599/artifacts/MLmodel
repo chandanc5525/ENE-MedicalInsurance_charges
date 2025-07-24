@@ -1,0 +1,22 @@
+artifact_path: file:///C:/ENE-MedicalInsurance_charges/ml_project/mlruns/331458193197915174/models/m-4903c940df7f48939245b12c38945599/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+mlflow_version: 3.1.4
+model_id: m-4903c940df7f48939245b12c38945599
+model_size_bytes: 13776440
+model_uuid: m-4903c940df7f48939245b12c38945599
+prompts: null
+run_id: f71b06bcd1784bb4aec329c92933481b
+utc_time_created: '2025-07-24 18:45:17.422384'

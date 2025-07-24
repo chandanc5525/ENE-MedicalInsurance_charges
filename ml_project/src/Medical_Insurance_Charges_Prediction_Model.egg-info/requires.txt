@@ -5,3 +5,4 @@ joblib
 mlflow
 matplotlib
 seaborn
+loguru

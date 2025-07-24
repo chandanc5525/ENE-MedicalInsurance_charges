@@ -1,0 +1,6 @@
+artifact_location: file:///C:/ENE-MedicalInsurance_charges/ml_project/mlruns/331458193197915174
+creation_time: 1753382665106
+experiment_id: '331458193197915174'
+last_update_time: 1753382665106
+lifecycle_stage: active
+name: Medical_Insurance_Charges_Regression

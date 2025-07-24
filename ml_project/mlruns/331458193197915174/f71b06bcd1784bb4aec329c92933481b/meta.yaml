@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/ENE-MedicalInsurance_charges/ml_project/mlruns/331458193197915174/f71b06bcd1784bb4aec329c92933481b/artifacts
+end_time: 1753382721929
+entry_point_name: ''
+experiment_id: '331458193197915174'
+lifecycle_stage: active
+run_id: f71b06bcd1784bb4aec329c92933481b
+run_name: gregarious-eel-751
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753382665597
+status: 3
+tags: []
+user_id: CHANDAN

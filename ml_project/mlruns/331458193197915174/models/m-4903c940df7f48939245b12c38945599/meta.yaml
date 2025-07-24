@@ -1,0 +1,10 @@
+artifact_location: file:///C:/ENE-MedicalInsurance_charges/ml_project/mlruns/331458193197915174/models/m-4903c940df7f48939245b12c38945599/artifacts
+creation_timestamp: 1753382717368
+experiment_id: '331458193197915174'
+last_updated_timestamp: 1753382721750
+model_id: m-4903c940df7f48939245b12c38945599
+model_type: null
+name: model
+source_run_id: f71b06bcd1784bb4aec329c92933481b
+status: 2
+status_message: null
