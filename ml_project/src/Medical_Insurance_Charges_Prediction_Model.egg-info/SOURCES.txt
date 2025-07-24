@@ -1,0 +1,7 @@
+README.md
+setup.py
+src/Medical_Insurance_Charges_Prediction_Model.egg-info/PKG-INFO
+src/Medical_Insurance_Charges_Prediction_Model.egg-info/SOURCES.txt
+src/Medical_Insurance_Charges_Prediction_Model.egg-info/dependency_links.txt
+src/Medical_Insurance_Charges_Prediction_Model.egg-info/requires.txt
+src/Medical_Insurance_Charges_Prediction_Model.egg-info/top_level.txt
